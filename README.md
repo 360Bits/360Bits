@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @360Bits, im a Sys-Admin with Experience in project Management
+- 👀 I’m interested in Web & App Development and Server Administration
+- 🌱 I’m currently learning HTML, CSS, JS, React, Python. I plan to learn Node.JS and working with Librarys later.
+- 💞️ I’m looking to collaborate on exciting and interesting Projects of any Kind
+- 📫 How to reach me: Write me a Direct Message here.
